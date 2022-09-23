@@ -1,0 +1,39 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "posts",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "determine",
+    "subtitle": "partly",
+    "author": "signal",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764"
+    },
+    "content": [
+      {
+        "heading": "twelve",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Nisi aliqua tempor aliqua sint laboris deserunt occaecat non irure irure laborum eu irure.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
